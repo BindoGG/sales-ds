@@ -1,2 +1,2 @@
 # sales-ds
-Thsi repository constains sales forecast scripts
+This repository constains sales forecast scripts
